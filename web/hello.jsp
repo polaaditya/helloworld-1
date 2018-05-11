@@ -1,6 +1,6 @@
 <html>
   <head>
-    <title>Sample Applications JSP Page</title>
+    <title>Sample Application JSP Page</title>
   </head>
 
   <body bgcolor=white>
@@ -11,7 +11,7 @@
         <img src="images/Pivotal_Logo.png">
       </td>
       <td>
-         <h1>Sample Applications JSP Page</h1>
+         <h1>Sample Application JSP Page</h1>
       </td>
     </tr>
   </table>
